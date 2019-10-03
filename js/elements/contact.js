@@ -1,6 +1,7 @@
 const Contact = class {
     constructor(){
-
+        this.address = biz_info.address
+        this.phone = biz_info.phone
     }
     build(){
         const el = `      
@@ -39,20 +40,12 @@ const Contact = class {
                         
                         <div class="content-element5">
                         <div class="our-info">
-                            <p><i class="licon-map-marker"></i>8901 Marmora Road, Glasgow, D04 89GR.</p>
-                            <p content="telephone=no"><i class="licon-telephone"></i>+1 800 559 6580</p>
-                            <p content="telephone=no"><i class="licon-printer"></i>+1 800 889 9898</p>
-                            <p><i class="licon-clock3"></i>Mon-Fri 8am- 5pm / Phones are open 24/7 </p>
+                            <p><i class="licon-map-marker"></i>${this.address}</p>
+                            <p content="telephone=no"><i class="licon-telephone"></i>${this.phone}</p>
                         </div>                  
                         <a href="https://www.google.com/maps/dir//2032+S+Elliott+Ave,+Aurora,+MO+65605/@36.9487043,-93.7878472,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x87cf4b1a194c90e1:0xba30bfe0c0a857c!2m2!1d-93.7178072!2d36.9487249" class="info-btn">Get Directions</a>
                         </div>
-                        
-                        <ul class="social-icons">
-                        <li><a href="#"><i class="icon-facebook"></i></a></li>
-                        <li><a href="#"><i class="icon-twitter"></i></a></li>
-                        <li><a href="#"><i class="icon-gplus-3"></i></a></li>
-                        <li><a href="#"><i class="icon-linkedin-3"></i></a></li>
-                        </ul>
+
                     </div>
                     </div>
                 </div>
