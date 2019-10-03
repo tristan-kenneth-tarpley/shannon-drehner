@@ -22,7 +22,7 @@ const Nav = class {
                <div class="top-header flex-row flex-center">
                  <!-- logo -->
                  <div class="logo-wrap">
-                   <a href="index.html" class="logo"><img src="images/logo.jpg" alt=""></a>
+                   <a href="index.html" class="logo"><img src="https://via.placeholder.com/350x150.png" alt=""></a>
                  </div>
                 
                  <!-- - - - - - - - - - - - / Mobile Menu - - - - - - - - - - - - - -->
@@ -39,7 +39,7 @@ const Nav = class {
                
                        <nav id="main-navigation" class="main-navigation">
                          <ul id="menu" class="clearfix">
-                           <li class="current dropdown"><a href="#">Home</a>
+                           <li class="current dropdown"><a class="white-link" href="#">Home</a>
                            <!--sub menu-->
                              <div class="sub-menu-wrap">
                                <ul>
@@ -49,7 +49,7 @@ const Nav = class {
                                </ul>
                              </div>
                            </li>
-                           <li class="dropdown has-megamenu"><a href="#">Practice Areas</a>
+                           <li class="dropdown has-megamenu"><a class="white-link" href="#">Practice Areas</a>
                              <!--sub menu-->
                              <div class="sub-menu-wrap mega-menu flex-row">
                                <ul>
@@ -72,33 +72,7 @@ const Nav = class {
                                </ul>
                              </div>
                            </li>
-                           <li class="dropdown"><a href="#">Attorneys</a>
-                             <!--sub menu-->
-                             <div class="sub-menu-wrap">
-                               <ul>
-                                 <li><a href="attorneys_list_v1.html">Attorneys List v1</a></li>
-                                 <li><a href="attorneys_list_v2.html">Attorneys List v2</a></li>
-                                 <li><a href="attorney_profile_v1.html">Attorney Profile Page v1</a></li>
-                                 <li><a href="attorney_profile_v2.html">Attorney Profile Page v2</a></li>
-                               </ul>
-                             </div>
-                           </li>
-                           <li class="dropdown"><a href="#">Pages</a>
-                             <!--sub menu-->
-                             <div class="sub-menu-wrap">
-                               <ul>
-                                 <li><a href="about.html">About Us</a></li>
-                                 <li><a href="testimonials.html">Testimonials</a></li>
-                                 <li><a href="case_v1.html">Case Result v1</a></li>
-                                 <li><a href="case_v2.html">Case Result v2</a></li>
-                                 <li><a href="shortcodes.html">Shortcodes</a></li>
-                                 <li><a href="typography.html">Typography</a></li>
-                                 <li><a href="404_page.html">404 Page</a></li>
-                                 <li><a href="coming_soon.html">Coming Soon Page</a></li>
-                               </ul>
-                             </div>
-                           </li>
-                           <li class="dropdown"><a href="#">Blog</a>
+                           <li class="dropdown"><a class="white-link" href="#">Blog</a>
                              <!--sub menu-->
                              <div class="sub-menu-wrap">
                                <ul>
@@ -108,7 +82,7 @@ const Nav = class {
                                </ul>
                              </div>
                            </li>
-                           <li class="dropdown"><a href="#">Contact Us</a>
+                           <li class="dropdown"><a class="white-link" href="#">Contact Us</a>
                              <!--sub menu-->
                              <div class="sub-menu-wrap">
                                <ul>
@@ -122,11 +96,7 @@ const Nav = class {
                
                        <!-- - - - - - - - - - - - - end Navigation - - - - - - - - - - - - - - - -->
                
-                       <div class="search-holder">
-                       
-                         <button type="button" class="search-button"></button>
-               
-                       </div>
+      
                
                      </div>
                  

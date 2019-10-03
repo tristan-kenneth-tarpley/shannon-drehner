@@ -43,7 +43,7 @@ const Contact = class {
                             <p><i class="licon-map-marker"></i>${this.address}</p>
                             <p content="telephone=no"><i class="licon-telephone"></i>${this.phone}</p>
                         </div>                  
-                        <a href="https://www.google.com/maps/dir//2032+S+Elliott+Ave,+Aurora,+MO+65605/@36.9487043,-93.7878472,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x87cf4b1a194c90e1:0xba30bfe0c0a857c!2m2!1d-93.7178072!2d36.9487249" class="info-btn">Get Directions</a>
+                        
                         </div>
 
                     </div>

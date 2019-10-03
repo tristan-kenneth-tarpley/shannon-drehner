@@ -188,6 +188,10 @@ body{
   color: #fff;
 }
 
+.white-link {
+  color: var(--primary-3) !important;
+}
+
 img{
   -webkit-user-select: none;
   -khtml-user-select: none;

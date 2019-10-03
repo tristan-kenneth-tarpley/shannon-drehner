@@ -20,9 +20,9 @@ const Services = class {
     services(){
         const struct = [
             {
-                shade: 'dark',
+                shade: 'grey',
                 img: 'https://via.placeholder.com/640x308.png',
-                title: 'SEXUAL ASSAULT',
+                title: 'Sexual Assault',
                 width: 'item-col-2'
             },
             {
@@ -58,13 +58,13 @@ const Services = class {
             {
                 shade: 'rose',
                 img: 'https://via.placeholder.com/640x308.png',
-                title: 'EXPUNCTIONS/PETITIONS FOR NON-DISCLOSURE',
+                title: 'Expunctions/petitions for Non-Disclosure',
                 width: 'item-col-2'
             },
             {
                 shade: 'grey',
                 img: 'https://via.placeholder.com/320x308.png',
-                title: 'VICTIM OF CRIME/INVESTIGATIONS',
+                title: 'Victim of crime/investigations',
                 width: 'item-col'
             }
 
