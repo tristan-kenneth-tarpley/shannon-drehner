@@ -10,6 +10,8 @@ const ViewController = class {
         const nav = new Nav()
         const footer = new Footer()
         const contact = new Contact()
+        const services = new Services()
+        services.build()
         $('#header_imports').html(head.build())
         $("#top_nav").html(nav.build())
         $("#footer_imports").html(footer.build())
