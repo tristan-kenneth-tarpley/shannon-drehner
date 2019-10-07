@@ -22,7 +22,7 @@ const Nav = class {
                <div class="top-header flex-row flex-center">
                  <!-- logo -->
                  <div class="logo-wrap">
-                   <a href="index.html" class="logo"><img src="https://via.placeholder.com/350x150.png" alt=""></a>
+                   <a href="index.html" class="logo"><img class="logo" src="images/logo.jpg" alt=""></a>
                  </div>
                 
                  <!-- - - - - - - - - - - - / Mobile Menu - - - - - - - - - - - - - -->
@@ -37,10 +37,10 @@ const Nav = class {
                        
                        <!-- - - - - - - - - - - - - - Navigation - - - - - - - - - - - - - - - - -->
                
-                       <nav id="main-navigation" class="main-navigation">
+                       <!-- <nav id="main-navigation" class="main-navigation">
                          <ul id="menu" class="clearfix">
                            <li class="current dropdown"><a class="white-link" href="#">Home</a>
-                           <!--sub menu-->
+                      
                              <div class="sub-menu-wrap">
                                <ul>
                                  <li class="current"><a href="index.html">Homepage Layout 1</a></li>
@@ -50,7 +50,7 @@ const Nav = class {
                              </div>
                            </li>
                            <li class="dropdown has-megamenu"><a class="white-link" href="#">Practice Areas</a>
-                             <!--sub menu-->
+          
                              <div class="sub-menu-wrap mega-menu flex-row">
                                <ul>
                                  <li><a href="practice_area_v1.html">Practice Areas Overview v1</a></li>
@@ -73,7 +73,7 @@ const Nav = class {
                              </div>
                            </li>
                            <li class="dropdown"><a class="white-link" href="#">Blog</a>
-                             <!--sub menu-->
+                
                              <div class="sub-menu-wrap">
                                <ul>
                                  <li><a href="blog_classic.html">Classic</a></li>
@@ -83,7 +83,7 @@ const Nav = class {
                              </div>
                            </li>
                            <li class="dropdown"><a class="white-link" href="#">Contact Us</a>
-                             <!--sub menu-->
+                    
                              <div class="sub-menu-wrap">
                                <ul>
                                  <li><a href="contact_v1.html">Contact Us v1</a></li>
@@ -92,7 +92,7 @@ const Nav = class {
                              </div>
                            </li>
                          </ul>
-                       </nav>
+                       </nav> -->
                
                        <!-- - - - - - - - - - - - - end Navigation - - - - - - - - - - - - - - - -->
                

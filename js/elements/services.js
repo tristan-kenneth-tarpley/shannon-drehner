@@ -8,7 +8,7 @@ const Services = class {
         const el = `<div class="${width}">
             <a href="#" class="service-item ${shade}">
             <figure>
-                <img src="${img}" alt="">
+                <img src="images/${img}" alt="">
             </figure>
             <span class="service-title">${title}</span>
             </a>
@@ -21,50 +21,50 @@ const Services = class {
         const struct = [
             {
                 shade: 'grey',
-                img: 'https://via.placeholder.com/640x308.png',
+                img: 'sexual-assault.jpg',
                 title: 'Sexual Assault',
                 width: 'item-col-2'
             },
             {
                 shade: 'dark',
-                img: 'https://via.placeholder.com/640x308.png',
+                img: 'family_violence.jpg',
                 title: 'Family Violence',
                 width: 'item-col-2'
             },
             {
                 shade: 'grey',
-                img: 'https://via.placeholder.com/320x308.png',
-                title: 'White Color',
+                img: 'white_collar.jpg',
+                title: 'White Collar',
                 width: 'item-col'
             },
             {
                 shade: 'dark',
-                img: 'https://via.placeholder.com/320x308.png',
+                img: 'drugs.jpg',
                 title: 'Drug Charges',
                 width: 'item-col'
             },
             {
                 shade: 'rose',
-                img: 'https://via.placeholder.com/640x308.png',
+                img: 'violent_crime.jpg',
                 title: 'Assault & Violent Crimes',
                 width: 'item-col-2'
             },
             {
                 shade: 'dark',
-                img: 'https://via.placeholder.com/320x308.png',
+                img: 'juvenile.jpg',
                 title: 'Juvenile Crimes',
                 width: 'item-col'
             },
             {
                 shade: 'rose',
-                img: 'https://via.placeholder.com/640x308.png',
+                img: 'disclosure.jpg',
                 title: 'Expunctions/petitions for Non-Disclosure',
                 width: 'item-col-2'
-            },
+            }, // 640x308 // 2560x1232 // 3840x1848 // 4480x2156
             {
                 shade: 'grey',
-                img: 'https://via.placeholder.com/320x308.png',
-                title: 'Victim of crime/investigations',
+                img: 'victim.jpg',
+                title: 'Victim of crime',
                 width: 'item-col'
             }
 

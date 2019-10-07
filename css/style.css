@@ -816,6 +816,8 @@ a.custom-link:hover{
 
   .logo{
     display: inline-block;
+    width: 350px;
+    height: 150px;
   }
 
   .header .menu-wrap{
@@ -2048,7 +2050,7 @@ button.search-button:before{content: "\e922";}
     font-size: 0.8889em;
     border-radius: 30px;
     background: #f5f2e9;
-    color: var(--primary-1);
+    color: rgba(0,0,0,.7);
     text-align: center;
     letter-spacing: 0.75px;
     line-height: 1.7500em;
@@ -2086,7 +2088,7 @@ button.search-button:before{content: "\e922";}
 
   [class*="btn"].btn-style-2{
     background: var(--sec-4);
-    color: #fff;
+    color: rgba(0,0,0,.7);
   }
 
   [class*="btn"].btn-style-2:hover{
@@ -2094,7 +2096,7 @@ button.search-button:before{content: "\e922";}
   }
 
   [class*="btn"].btn-style-3{
-    color: #fff;
+    color: rgba(0,0,0,.7);
     background: var(--primary-1);
   }
 
@@ -2108,22 +2110,22 @@ button.search-button:before{content: "\e922";}
   }
 
   [class*="btn"].btn-style-4:hover{
-    background: #e9e6dd;
+    background: var(--primary-2);;
   }
 
   [class*="btn"].btn-style-5{
     background: var(--sec-4);
-    color: #fff;
+    color: rgba(0,0,0,.7);
     box-shadow: 0px 8px 21px 0px rgba(101,174,132,0.45);
   }
 
   [class*="btn"].btn-style-5:hover{
-    background: #7dbc98;
+    background: var(--primary-2);
   }
 
   [class*="btn"].btn-style-6{
     background: var(--primary-1);
-    color: #fff;
+    color: rgba(0,0,0,.7);
     box-shadow: 0px 8px 21px 0px rgba(72,57,73,0.45);
   }
 
@@ -4436,7 +4438,7 @@ button.search-button:before{content: "\e922";}
     .tabs:not(.style-2) .tabs-nav > li:not(:first-child) > a{margin-left: 1px;}
 
     .tabs:not(.style-2) .tabs-nav > li.ui-tabs-active a{
-      background: var(--sec-4);
+      background: var(--primary-1);
       color: #fff;
     }
 
