@@ -6,6 +6,8 @@ const Contact = class {
     build(){
         $(".phone").text(this.phone)
         $(".address").text(this.address)
-
+        $("#core_contact").on("submit",e=>{
+            console.log('working')
+        })
     }
 }
