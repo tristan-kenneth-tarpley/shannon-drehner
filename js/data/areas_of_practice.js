@@ -11,4 +11,4 @@ const area = class {
     build(){
         $(".service_copy").html(this.copy)
     }
-}
+}  

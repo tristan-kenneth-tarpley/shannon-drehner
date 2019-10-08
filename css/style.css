@@ -814,6 +814,9 @@ a.custom-link:hover{
   padding-right: 30px;
 }
 
+.dark_link {
+  color: rgba(0,0,0,.7) !important;
+}
   .logo{
     display: inline-block;
     width: 350px;

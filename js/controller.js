@@ -11,6 +11,7 @@ const ViewController = class {
         const footer = new Footer()
         const contact = new Contact()
         const services = new Services()
+        contact.build()
         services.build()
         $('#header_imports').html(head.build())
         $("#top_nav").html(nav.build())
@@ -23,8 +24,28 @@ $(document).ready(()=>{
     const VC = new ViewController('test', 'test', 'test')
     VC.build()
 
-    console.log(window.location.pathname)
-    if (window.location.pathname.substring(0) == 'index.html') {
-        console.log('yaaaas')
+    const pathname = window.location.pathname
+    const sub_nav = new Nav()
+    if (pathname.includes('shannon.html')){
+        $("#sub_header").html(sub_nav.sub_header())
+    }
+
+
+    const destinations = [
+        'assault.html', 'drug_charges.html',
+        'expunctions.html', 'family_violence.html',
+        'juvenile.html', 'sexual_assault.html',
+        'victims.html', 'white_collar.html'
+    ]
+    let sub_length = destinations.length;
+
+    while(sub_length--) {
+        if (window.location.pathname.indexOf(destinations[sub_length])!=-1) {
+            const service_controller = new Services()
+            service_controller.render_page(destinations[sub_length])
+            $("#area_sidebar").html(sub_nav.area_sidebar())
+            $("#sub_header").html(sub_nav.sub_header())
+            
+        }
     }
 })
