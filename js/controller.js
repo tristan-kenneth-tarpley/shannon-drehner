@@ -22,4 +22,9 @@ const ViewController = class {
 $(document).ready(()=>{
     const VC = new ViewController('test', 'test', 'test')
     VC.build()
+
+    console.log(window.location.pathname)
+    if (window.location.pathname.substring(0) == 'index.html') {
+        console.log('yaaaas')
+    }
 })

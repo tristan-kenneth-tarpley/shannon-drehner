@@ -20,12 +20,6 @@ const Services = class {
     services(){
         const struct = [
             {
-                shade: 'grey',
-                img: 'sexual-assault.jpg',
-                title: 'Sexual Assault',
-                width: 'item-col-2'
-            },
-            {
                 shade: 'dark',
                 img: 'family_violence.jpg',
                 title: 'Family Violence',
@@ -47,6 +41,12 @@ const Services = class {
                 shade: 'rose',
                 img: 'violent_crime.jpg',
                 title: 'Assault & Violent Crimes',
+                width: 'item-col-2'
+            },
+            {
+                shade: 'grey',
+                img: 'sexual-assault.jpg',
+                title: 'Sexual Assault',
                 width: 'item-col-2'
             },
             {
