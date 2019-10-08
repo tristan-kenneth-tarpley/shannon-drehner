@@ -12,11 +12,11 @@ const ViewController = class {
         const contact = new Contact()
         const services = new Services()
         contact.build()
-        services.build()
         $('#header_imports').html(head.build())
         $("#top_nav").html(nav.build())
         $("#footer_imports").html(footer.build())
         $("#contact_section").html(contact.build())
+        services.build()
     }
 }
 

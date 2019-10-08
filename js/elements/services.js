@@ -1,7 +1,7 @@
 const Services = class {
     constructor(){}
 
-    shell(shade, img, title, width, url){
+    service_shell(shade, img, title, width, url){
         // shade = dark, grey, rose, or green
         // width = item-col-2 or item-col
 
@@ -84,7 +84,7 @@ const Services = class {
     build(){
         const struct = this.services()
         struct.forEach(item=>{
-            const el = this.shell(item.shade, item.img, item.title, item.width, item.url)
+            const el = this.service_shell(item.shade, item.img, item.title, item.width, item.url)
             $('#service_list').append(el)
         })
     }
