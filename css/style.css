@@ -6334,8 +6334,8 @@ button.search-button:before{content: "\e922";}
 /* ----------------- Footer style-2 ---------------- */
 @media only screen and (max-width: 800px) {
   .logo img {
-    width: 280px;
-    height: 120px;
+    width: 224px;
+    height: 96px;
   }
 
 }
