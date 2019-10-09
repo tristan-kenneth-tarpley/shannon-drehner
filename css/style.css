@@ -6344,6 +6344,6 @@ button.search-button:before{content: "\e922";}
     font-size: 250%;
   }
   .v-text {
-    margin-left: 10px;
+    margin-top: -50px;
   }
 }
