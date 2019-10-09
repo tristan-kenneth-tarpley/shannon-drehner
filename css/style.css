@@ -6350,6 +6350,7 @@ button.search-button:before{content: "\e922";}
     width: 75px !important;
   }
   .tp-caption {
+    width: 80% !important;
     font-size: 150% !important;
   }
 }
