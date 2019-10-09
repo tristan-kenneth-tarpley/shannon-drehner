@@ -1486,10 +1486,10 @@ button.search-button:before{content: "\e922";}
   -moz-background-size: 100%; 
   -o-background-size: 100%; 
   background-size: 100%; 
-  -webkit-background-size: cover; 
-  -moz-background-size: cover; 
-  -o-background-size: cover; 
-  background-size: cover; 
+  -webkit-background-size: contain; 
+  -moz-background-size: contain; 
+  -o-background-size: contain; 
+  background-size: contain; 
 }
 
 .parallax-section hr.style-3:not(.var2){
@@ -6348,9 +6348,5 @@ button.search-button:before{content: "\e922";}
   }
   .side-bar {
     width: 75px !important;
-  }
-  .tp-caption {
-    width: 80% !important;
-    font-size: 150% !important;
   }
 }
