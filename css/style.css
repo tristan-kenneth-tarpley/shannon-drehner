@@ -6341,7 +6341,8 @@ button.search-button:before{content: "\e922";}
 }
 @media only screen and (max-width: 600px) {
   .slider_btn {
-    font-size: 250%;
+    font-size: 17px !important;
+    padding: 8px 15px !important;
   }
   .v-text {
     margin-top: -50px;
