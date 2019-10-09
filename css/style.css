@@ -6346,4 +6346,10 @@ button.search-button:before{content: "\e922";}
   .v-text {
     margin-top: -50px;
   }
+  .side-bar {
+    width: 100px !important;
+  }
+  .tp-caption {
+    font-size: 150% !important;
+  }
 }
