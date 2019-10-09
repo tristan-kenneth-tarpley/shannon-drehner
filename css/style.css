@@ -6347,7 +6347,7 @@ button.search-button:before{content: "\e922";}
     margin-top: -50px;
   }
   .side-bar {
-    width: 100px !important;
+    width: 75px !important;
   }
   .tp-caption {
     font-size: 150% !important;
