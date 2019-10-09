@@ -6356,6 +6356,9 @@ button.search-button:before{content: "\e922";}
     -o-background-size: 50%; 
     background-size: 50%; 
   }
+  .tp-caption {
+    font-size: 150% !important;
+  }
 
   
 }
