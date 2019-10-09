@@ -6332,3 +6332,15 @@ button.search-button:before{content: "\e922";}
   }
 
 /* ----------------- Footer style-2 ---------------- */
+@media only screen and (max-width: 800px) {
+  .logo img {
+    width: 280px;
+    height: 120px;
+  }
+
+}
+@media only screen and (max-width: 600px) {
+  .slider_btn {
+    font-size: 200%;
+  }
+}

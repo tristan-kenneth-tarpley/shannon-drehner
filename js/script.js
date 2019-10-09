@@ -175,7 +175,8 @@
 				        	direction:"vertical",
 				        	space: 5,       
 				        	h_align: "right",
-				        	v_align: "center",
+							v_align: "bottom",
+							v_offset: 80,
 				        	h_offset: 40
 				        }
 		            },

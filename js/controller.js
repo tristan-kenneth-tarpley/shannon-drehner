@@ -17,6 +17,12 @@ const ViewController = class {
         $("#footer_imports").html(footer.build())
         $("#contact_section").html(contact.build())
         services.build()
+
+        const width = $(window).width();
+        if (width < 800){
+            $(".slider_mobile.bg-3").attr('src', 'images/bg-3-mobile.png')
+            $('.slider_mobile.bg-1').attr('src', 'images/bg-1-mobile.png')
+        }
     }
 }
 
