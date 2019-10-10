@@ -38,7 +38,7 @@ $(document).ready(()=>{
 
 
     const destinations = [
-        'assault.html', 'drug_charges.html',
+        'violent_crimes_assault.html', 'drug_charges.html',
         'expunctions.html', 'family_violence.html',
         'juvenile.html', 'sexual_assault.html',
         'victims.html', 'white_collar.html'

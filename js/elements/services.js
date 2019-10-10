@@ -46,7 +46,7 @@ const Services = class {
                 img: 'violent_crime.jpg',
                 title: 'Assault & Violent Crimes',
                 width: 'item-col-2',
-                url: 'assault.html'
+                url: 'violent_crimes_assault.html'
             },
             {
                 shade: 'grey',

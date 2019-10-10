@@ -75,7 +75,7 @@ const area_of_practice_copy = {
     'sexual_assault.html': {
         title: 'Houston Sexual Assault Lawyer',
         copy: `
-        <h6>Aggressive and Passionate Criminal Defense for Sexual Assault Charges</h6>
+        <h5>Aggressive and Passionate Criminal Defense for Sexual Assault Charges</h5>
 
         <p>If you are charged with sexual assault, the consequences can range from probation to a life sentence
         depending on the charge. In addition, Texas has sex offender registration requirements upon a plea or
@@ -94,7 +94,7 @@ const area_of_practice_copy = {
         law enforcement when investigating an allegation of sexual assault. As your attorney, Shannon
         Drehner will use her experience to aggressively defend against false allegations of sexual assault. </p>
 
-        <h6 style="color: #669acc;" >Why a Female Defense Attorney May Be in Your Best Interest</h6>
+        <h5 style="color: #669acc;" >Why a Female Defense Attorney Maybe in Your Best Interest</h5>
 
         <p>Sexual Assault is one of the few crimes in Texas where someone can be charged with zero evidence,
         relying solely on testimonials. It’s the proverbial he said/she said case. Juries are told that they can
@@ -164,7 +164,7 @@ const area_of_practice_copy = {
         result. Attorney Shannon Drehner has handled hundreds of family violence cases
         throughout her career. </p> 
 
-        <h6 style="color: #669acc;">Why a Female Defense Attorney May be in your Best Interest</h6>
+        <h5 style="color: #669acc;">Why a Female Defense Attorney Maybe in your Best Interest</h5>
         <p>Accusations of domestic violence surface around jealousy, alcohol consumption,
         accusations of infidelity, and overall unhappiness. Most of the time, these accusations do
         not surface in a vacuum. An officer responding to a domestic violence call must decide on

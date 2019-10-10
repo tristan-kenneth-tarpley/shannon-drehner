@@ -232,7 +232,7 @@ const Nav = class {
         <h5 class="widget-title">Practice Areas</h5>
 
         <ul class="toggle-list">
-          <li><a class="dark_link" href="assault.html">Violent Crimes & Assault</a></li>
+          <li><a class="dark_link" href="violent_crimes_assault.html">Violent Crimes & Assault</a></li>
           <li><a class="dark_link" href="drug_charges.html">Drug Charges</a></li>
           <li><a class="dark_link" href="expunctions.html">Expunctions & Petitions for Non-Disclosure</a></li>
           <li><a class="dark_link" href="family_violence.html">Family Violence</a></li>
