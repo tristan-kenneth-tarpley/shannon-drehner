@@ -234,10 +234,12 @@ const Nav = class {
         <ul class="toggle-list">
           <li><a class="dark_link" href="violent_crimes_assault.html">Violent Crimes & Assault</a></li>
           <li><a class="dark_link" href="drug_charges.html">Drug Charges</a></li>
+          <li><a class="dark_link" href="dwi.html">DWI</a></li>
           <li><a class="dark_link" href="expunctions.html">Expunctions & Petitions for Non-Disclosure</a></li>
           <li><a class="dark_link" href="family_violence.html">Family Violence</a></li>
           <li><a class="dark_link" href="juvenile.html">Juvenile Crimes</a></li>
           <li><a class="dark_link" href="sexual_assault.html">Sexual Assault</a></li>
+          <li><a class="dark_link" href="title9.html">Title IX</a></li>
           <li><a class="dark_link" href="victims.html">Victims of Crime</a></li>
           <li><a class="dark_link" href="white_collar.html">White Collar</a></li>
         </ul>

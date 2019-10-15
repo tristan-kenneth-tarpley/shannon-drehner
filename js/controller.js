@@ -41,7 +41,8 @@ $(document).ready(()=>{
         'violent_crimes_assault.html', 'drug_charges.html',
         'expunctions.html', 'family_violence.html',
         'juvenile.html', 'sexual_assault.html',
-        'victims.html', 'white_collar.html'
+        'victims.html', 'white_collar.html',
+        'title9.html', 'dwi.html'
     ]
     let sub_length = destinations.length;
 

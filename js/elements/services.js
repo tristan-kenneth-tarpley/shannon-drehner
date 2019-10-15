@@ -75,6 +75,20 @@ const Services = class {
                 title: 'Victim of crime',
                 width: 'item-col',
                 url: 'victims.html'
+            }, // 640x308 // 2560x1232 // 3840x1848 // 4480x2156
+            {
+                shade: 'dark',
+                img: 'dwi.jpg',
+                title: 'DWI',
+                width: 'item-col-2',
+                url: 'dwi.html'
+            }, // 640x308 // 2560x1232 // 3840x1848 // 4480x2156
+            {
+                shade: 'rose',
+                img: 'title9.jpg',
+                title: 'Title IX',
+                width: 'item-col',
+                url: 'title9.html'
             }
 
         ]

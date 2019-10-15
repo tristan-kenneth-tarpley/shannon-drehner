@@ -232,5 +232,100 @@ const area_of_practice_copy = {
         knowledge to challenge the government’s case in order to get the best result for you.
         </p>
         `
+    },
+    'title9.html': {
+        title: 'Houston Title IX Defense Lawyer',
+        copy: `
+        <h5>Sexual Discrimination: What is Title IX?</h5>
+        <p>Title IX is a federal statute that prohibits sexual discrimination in educational institutions
+        that receive federal funding. “No person in the United States shall, on the basis of sex, be
+        excluded from participation in, be denied benefits of, or be subjected to discrimination under
+        any education program receiving federal financial assistance.”  This requires that
+        educational institutions respond and remedy unsafe educational environments. Failure to
+        do so is a violation - that means a school could risk losing its federal funding. This statute
+        covers sexual harassment and sexual violence. Sometimes an allegation of sexual
+        misconduct may be a violation of both university policy and a crime.</p>
+        <p>The potential consequences for a student accused of a title IX complaint include:
+        <ul>
+            <li>Disciplinary probation</li>
+            <li>Suspension</li>
+            <li>Expulsion</li>
+            <li>Specialized treatment off campus</li>
+            <li>No contact orders</li>
+            <li>Trespass from campus</li>
+            <li>Prohibition of participation in university programs or activities</li>
+        </ul><br>
+        <p>These consequences can be life changing for a student. Attorney Shannon Drehner can help
+        prepare you for every phase of the grievance process including the investigation, hearing
+        and appeals if necessary.</p>
+        <p>For the grievance process, it is important to put together a convincing case that is
+        supported by solid evidence. Usually, the timeline to resolve a Title 9 complainant is very
+        short. With so much on the line, it’s important to aggressively investigate a claim so you
+        can respond effectively when presenting your case. Attorney Shannon Drehner has the
+        experience both at investigating and in helping to present an effective response to an
+        allegation.</p>
+        `
+    },
+    'dwi.html': {
+        title: 'DWI, Intoxication Assault and Intoxication Manslaughter',
+        copy: `
+        <h6>As a <a target="__blank" href="https://www.houstonchronicle.com/news/investigations/article/Out-of-Control-Houston-is-ground-zero-for-13212707.php">Houston Chronicle article</a> on DWI reported, Houston is “ground zero for drunken and drugged driving.“</h6>
+        <p>
+        <p>According to the report, Houston had more fatal DWI crashes in the last 16 years
+        compared to other major locations in the country. This amounts to a total of 3,000 wrecks
+        caused by drivers who were either drunk or high on drugs. Wrecks which resulted in the
+        deaths of drivers, passengers or both. This number is alarming compared to the 2,000
+        wrecks reported in Los Angeles, a city two times the population of Houston.</p>
+        <p>As a result of this staggering statistic, law enforcement agencies across the county  are
+        proactively working to combat DWI. In addition, it has motivated the District Attorney’s
+        Office to prosecute drunken driving cases aggressively in order to bring this epidemic
+        under control.</p>
+        <p>Penalties for DWI depend on a number of factors:</p>
+        <ul>
+            <li>Previous DWIs</li>
+            <li>Alcohol concentration of blood/breath above .15</li>
+            <li>Driving with a child passenger under the age of 15</li>
+            <li>Injuring or causing the death of another individual</li>
+            <li>Causing the injury or death of a police officer or firefighter</li>
+        </ul><br>
+        <p>In addition for cases involving injury or death, the state can enhance the charge by alleging
+        that the vehicle involved is a “deadly weapon.” This punishment enhancement has
+        consequences in terms of the denial of community supervision and parole eligibility. 
+        Another potential consequence of an intoxication related offense is driver’s license
+        suspension and other restrictions on driving. In a sprawling city with limited
+        transportation, it’s important to preserve the privilege to drive.</p>
+        <p>DWI and Intoxication related cases are technical cases. There are standards that govern
+        every step of a DWI investigation. The National Highway and Traffic Administration have
+        specific standards when they give the field sobriety tests. This means that the officer must
+        first analyze if the suspect shows signs of intoxication. Then the officer must give the
+        suspect instructions regarding the field sobriety test and demonstrate how they're done.</p>
+        <p>Before a blood sample can be collected, the state must first have probable cause to believe
+        that the suspect is intoxicated. This probable cause should be properly documented in the
+        search warrant. In addition there are protocols that dictate how the blood is collected,
+        stored, analyzed.</p>
+        <p>Given how technical these cases can be, it’s important to have an experienced and
+        knowledgeable attorney by your side. Attorney Shannon Drehner has handled hundreds of
+        DWI cases in her career.</p>
+        <h5 style="color:#669acc;">My Blood Just Tested Positive For Alcohol. Am I Completely Done For?</h5>
+        <p>Just because you have an unfavorable blood result, doesn’t mean that result is accurate or
+        admissible in court. Before blood can be taken, the state needs a search warrant that says
+        there is probable cause to believe that the suspect is intoxicated.</p>
+        <p>There are protocols that dictate how the blood should be collected at the police
+        station/hospital. In addition, there are protocols that dictate how the blood should be stored
+        after it is collected.  The actual analysis of the blood is governed by a number of procedures
+        that are followed and documented. While an unfavorable blood result may seem difficult to
+        challenge, there are many situations where you can and should challenge the blood results.</p>
+        <h5 style="color:#669acc;">The Breathalyzer Test</h5>
+        <p>Breath test cases pose even more problems for the government.  Shannon knows that the
+        breath test machine can often times be inaccurate.  The breath machine is so unreliable
+        that not a single hospital uses the contraption.  Also, some States have held the evidence
+        from a breath machine is so unreliable that they are not admissible in court.</p>
+        <h5 style="color:#669acc;">Will I lose my license if I get a DWI?</h5>
+        <p>When a client is arrest for Driving While Intoxicated they could face a potential license
+        suspension from multiple areas.  First, they could lose their license for REFUSING to
+        provide a breath specimen. They could lose their license if their breath or blood result is
+        over the legal limit for drugs or alcohol.  Finally, the government can suspend a person’s
+        license if they are CONVICTED of DWI.</p>
+        `
     }
 }
