@@ -5,7 +5,7 @@ const biz_info = {
 
 const area_of_practice_copy = {
     
-    'assault.html': {
+    'violent_crimes_assault.html': {
         title: 'Houston Assault & Violent Crime Lawyer',
         copy: `
         <p>Violent crime and assault involves cases where an individual uses or threatens the use of
