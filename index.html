@@ -21,6 +21,7 @@
   <link rel="stylesheet" href="css/owl.carousel.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/responsive.css">
+  <!-- Event snippet for Consultation request conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-698542860/L0cWCMuWg7QBEIzWi80C', 'event_callback': callback }); return false; } </script>
 </head>
 <body>
 
@@ -597,7 +598,7 @@
                           <textarea rows="3" name="cf-message" placeholder="Message *" required></textarea>
                       </div>
                       <div class="col-sm-12">
-                          <button type="submit" class="btn btn-style-2">Submit</button>
+                          <button onclick="return gtag_report_conversion('https://drehnerlaw.com/your-link')" type="submit" class="btn btn-style-2">Submit</button>
                       </div>
                       </div>
                   </form>
