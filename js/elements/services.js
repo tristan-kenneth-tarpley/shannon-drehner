@@ -9,7 +9,7 @@ const Services = class {
         <div class="${width}">
             <a href="${url}" class="service-item ${shade}">
             <figure>
-                <img src="images/${img}" alt="">
+                <img class="lazy" data-src="images/${img}" alt="">
             </figure>
             <span class="service-title">${title}</span>
             </a>
